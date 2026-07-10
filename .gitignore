@@ -16,8 +16,9 @@ venv/
 .coverage
 htmlcov/
 
-# Local docs (kept on disk, not published)
+# Local docs / Hermes personal OS specs (kept on disk, not published)
 docs/
+.hermes/
 
 # Runtime / local artifacts
 stats.json
