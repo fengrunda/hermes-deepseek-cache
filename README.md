@@ -1,5 +1,7 @@
 # hermes-deepseek-cache
 
+**中文** | [English](README_EN.md)
+
 [Hermes](https://github.com/NousResearch/hermes-agent) 插件：针对 DeepSeek API 做前缀缓存（prefix cache）线形成形——剥离非工具调用 assistant 消息中的 `reasoning_content`，提升缓存命中率，并统计缓存 token 用量。
 
 License: [MIT](LICENSE)
