@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+
+# Test / tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local docs (kept on disk, not published)
+docs/
+
+# Runtime / local artifacts
+stats.json
+stats.json.bak
+benchmark_flash_results.json
+.DS_Store
+
+# Editor / OS
+*.swp
+*~
+.idea/
+.vscode/

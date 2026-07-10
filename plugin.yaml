@@ -1,0 +1,6 @@
+name: hermes-deepseek-cache
+version: 0.1.0
+description: "DeepSeek prefix-cache wire shaping (Reasonix-style reasoning echo)."
+author: "fengrunda"
+hooks:
+  - post_api_request
